@@ -71,7 +71,7 @@ const config: Config = {
       title: 'Blog',
       logo: {
         alt: 'Blog-xinshuai',
-        src: 'img/logo.svg',
+        src: 'img/avantar-get-together.jpg',
       },
       items: [
         {
@@ -83,7 +83,7 @@ const config: Config = {
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://www.douyin.com/user/MS4wLjABAAAAuHs6TSIm7DRYp8lyK6h37sv5GosU_0exUf8QSjISDGOLDCPROquLJIkqzzDRKyZq',
-          label: '抖音视频',
+          label: '视频',
           position: 'right',
         },
         {to: '/about', label: '关于', position: 'right'},
