@@ -27,4 +27,6 @@
 .backgroundImg {
   background-image: url('/img/瑞士-采尔马特.jpg');
   background-repeat: no-repeat;
+  background-clip: border-box;
+  background-size: cover;
 }

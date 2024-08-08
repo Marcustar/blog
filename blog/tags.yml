@@ -14,9 +14,16 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
-X:
-  label: X
-  permalink: X 
+x:
+  label: x
+  permalink: /x
 music: 
   label: music 
   permalink: /music
+video: 
+  label: video 
+  permalink: /video
+LV: 
+  label: LV
+  permalink: /lv
+

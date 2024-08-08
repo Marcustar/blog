@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Blog-xinshuai',
+  title: 'xinshuai',
   tagline: 'Nice-to-meet-you',
   favicon: 'img/favicon.ico',
 
@@ -106,10 +106,10 @@ const config: Config = {
           ],
         },
         {
-          title: '连接',
+          title: '媒体',
           items: [
             {
-              label: 'Discord',
+              label: 'douyin',
               href: 'https://discordapp.com/invite/docusaurus',
             },
           ],
@@ -119,7 +119,7 @@ const config: Config = {
           items: [
 
             {
-              label: 'My Business',
+              label: 'Business',
               href: 'https://goel.com.cn/',
             },
           ],
