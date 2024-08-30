@@ -1,6 +1,6 @@
 {
     "label": "Music",
-    "position": 1,
+    "position":  -1,
     "link": {
       "type": "generated-index",
       "description": "Music"

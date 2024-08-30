@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'xinshuai',
-  tagline: 'Nice-to-meet-you',
+  title: '愿我走过的弯路不再成为你的迷途',
+  tagline: '祝你幸福！',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
