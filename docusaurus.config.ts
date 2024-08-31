@@ -3,8 +3,9 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '愿我走过的弯路不再成为你的迷途',
-  tagline: '祝你幸福！',
+  // 在所有人声鼎沸的欢喜里我独望向你,，有雨就有痕，有灯就有人
+  title: '凭一口气，点一盏灯',
+  tagline: '佛说前世五百次的回眸才换来今生一次的擦肩而过',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -16,7 +17,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xinshuai', // Usually your GitHub org/user name.
-  projectName: 'blog-xinshuai', // Usually your repo name.
+  projectName: 'blog', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -25,8 +26,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'zh',
+    locales: ['zh'],
   },
 
   presets: [
@@ -100,17 +101,17 @@ const config: Config = {
               to: '/docs',
             },
             {
-              label: 'Blog',
+              label: 'blog',
               to: '/blog',
             },
           ],
         },
         {
-          title: '媒体',
+          title: '链接',
           items: [
             {
-              label: 'douyin',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: '本站',
+              href: '/',
             },
           ],
         },

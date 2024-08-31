@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/blog">
-            site is being Building
+            祝你幸福， 陌生人，愿在所有人声鼎沸的欢喜里独有人望向你
           </Link>
         </div>
       </div>
