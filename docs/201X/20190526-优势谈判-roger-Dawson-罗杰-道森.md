@@ -1,5 +1,5 @@
 ---
-title: digest-优势谈判-roger-Dawson-罗杰-道森
+title: 优势谈判-roger-Dawson-罗杰-道森
 toc: true
 date: 2019-05-26 
 time: 23:10:04

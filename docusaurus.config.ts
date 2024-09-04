@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   // 在所有人声鼎沸的欢喜里我独望向你,，有雨就有痕，有灯就有人
-  title: '凭一口气，点一盏灯',
-  tagline: '佛说前世五百次的回眸才换来今生一次的擦肩而过',
+  title: '用最少的悔恨面对过去',
+  tagline: '前世五百次的回眸换来今生一次的擦肩而过',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -26,8 +26,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh',
-    locales: ['zh'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN'],
   },
 
   presets: [
@@ -110,8 +110,8 @@ const config: Config = {
           title: '链接',
           items: [
             {
-              label: '本站',
-              href: '/',
+              label: '2022年作品',
+              href: 'https://v2022.staryu.cn/',
             },
           ],
         },

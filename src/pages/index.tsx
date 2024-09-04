@@ -16,12 +16,12 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/blog">
-            祝你幸福， 陌生人，愿在所有人声鼎沸的欢喜里独有人望向你
+            祝幸福！
           </Link>
         </div>
       </div>
