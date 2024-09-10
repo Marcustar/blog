@@ -39,7 +39,10 @@ const config: Config = {
           // Please change this to your repo.
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: true,          
+          postsPerPage: 15,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All posts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -79,7 +82,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: '文档',
+          label: '笔记',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
