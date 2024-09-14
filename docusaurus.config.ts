@@ -59,9 +59,9 @@ const config: Config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'about',
-        path: 'about',
-        routeBasePath: 'about',
+        id: 'mba',
+        path: 'mba',
+        routeBasePath: 'mba',
         sidebarPath: undefined,
         // ... other options
       },
@@ -80,10 +80,11 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docSidebar',
           position: 'left',
           label: '笔记',
         },
+        {to: '/mba', label: 'Master-of-Business', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://www.douyin.com/user/MS4wLjABAAAAuHs6TSIm7DRYp8lyK6h37sv5GosU_0exUf8QSjISDGOLDCPROquLJIkqzzDRKyZq',
