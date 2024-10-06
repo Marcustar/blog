@@ -7,7 +7,7 @@ date: 2019-03-07 20:35:37
 permalink: /pages/930c9d/
 ---
 
-![蜜蜂](http://img.staryu.cn/miFeng-bangWan.jpg)
+![蜜蜂](https://blog-staryu-cn.oss-cn-shanghai.aliyuncs.com/miFeng-bangWan.jpg)
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width='330' height='86' src="//music.163.com/outchain/player?type=2&id=40249612&auto=1&height=66"></iframe>
 
