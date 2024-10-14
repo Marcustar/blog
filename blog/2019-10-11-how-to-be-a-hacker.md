@@ -9,6 +9,7 @@ time: 23:19:20
 3. walk with master
 4. see though master
 5. become the master
+<!-- truncate -->
 
 世界充满待解之谜
 一个问题不应该被解决 2 次

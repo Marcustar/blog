@@ -5,6 +5,7 @@ time:  20:56:14
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width='330' height='86' src="//music.163.com/outchain/player?type=2&id=35625418&auto=1&height=66"></iframe>
+<!-- truncate -->
 
 [Verse 1]   
 You're so cool, you're so cool  

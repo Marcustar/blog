@@ -8,6 +8,7 @@ permalink: /pages/f3fca4/
 呵呵,堡垒这个英雄还是很好玩的，就是比较吃资源，要灵活多动脑.  
 劝退新人，我是专业的^_^  
 <!-- truncate -->
+
 <!-- 
 <video id="video1" width="720" height="480" controls="yes" preload="none" alt="Link Missing" poster="https://blog-staryu-cn.oss-cn-shanghai.aliyuncs.com/picture-cover/bg-parking.jpg" >
       <source src="https://blog-staryu-cn.oss-cn-shanghai.aliyuncs.com/201X/overwatch/arrior_17-08-06_15-41-57.mp4" type="video/mp4" />
