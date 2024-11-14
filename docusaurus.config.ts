@@ -84,7 +84,7 @@ const config: Config = {
           position: 'left',
           label: '笔记',
         },
-        {to: '/mba', label: 'Master-of-Business', position: 'left'},
+        {to: '/mba', label: 'MBA', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://www.douyin.com/user/MS4wLjABAAAAuHs6TSIm7DRYp8lyK6h37sv5GosU_0exUf8QSjISDGOLDCPROquLJIkqzzDRKyZq',
